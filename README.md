@@ -1,1 +1,1 @@
-# tap-blank
+Sample org structure for application catalog
